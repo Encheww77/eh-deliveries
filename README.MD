@@ -11,3 +11,11 @@ qb-target
 LegacyFuel
 
 CDN-Fuel  SOON
+
+## Progress bar
+
+ox_lib
+
+## Notify 
+
+qb-core
