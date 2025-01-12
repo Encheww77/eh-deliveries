@@ -12,6 +12,12 @@ A job for the delivery
 		},
 	},
 
+## Dependency
+
+ox_lib
+
+qb-core
+
 ## Targets
 
 ox_target
